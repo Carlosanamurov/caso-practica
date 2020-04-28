@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+#contenido, #encabezado, #centro{
+    width: 900px;
+
+}
+#contenido{
+    height: 800px;
+    margin: 0 auto;
+}
+#encabezado{
+    height: 200px;
+    background-color: aqua;
+}
+#izq{
+    width: 150px;
+    height: 200px;
+    background-color: black;
+    float: left;
+
+}
+
+#final{
+    height: 50px;
+    width: 900px;
+    background-color: rgb(28, 3, 248);
+    float: left;
+}
+#centro{
+    height: 450px;
+   
+}
+#cen_izq{
+    width: 700px;
+    height: 450px;
+    background-color: crimson;
+    float: left;
+}
+#cen_der{
+    width: 200px;
+    height: 450px;
+    background-color: rgb(66, 116, 209);
+    float: left;
+}
